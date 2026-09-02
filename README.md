@@ -12,3 +12,10 @@ This is a simple AI Assistant built with Python.
 
 ## Author
 Hassan
+## How to Run
+
+1. Install Python
+2. Download the project
+3. Run:
+
+python hassan_ai_assistant.py
