@@ -19,3 +19,6 @@ Hassan
 3. Run:
 
 python hassan_ai_assistant.py
+## Update
+
+👋 Hello! Welcome to Hassan AI Assistant.
